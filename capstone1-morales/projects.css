@@ -1,0 +1,62 @@
+#fix-nav {
+	position: fixed;
+	float: right;
+	margin-top: 90px;
+}
+
+nav {
+	font-size: 1.2rem;
+}
+
+html {
+	background-size: cover;
+	background-image: url(https://wallpaperaccess.com/full/1740357.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 3rem;
+	padding-top: 2rem;
+	background-color: rgba(51, 50, 49, 0.75);
+}
+
+
+h1 {
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+nav a:hover {
+	border-bottom: 2px solid red;
+}
+
+nav a {
+	margin-right: 5rem;
+}
+
+
+.foot {
+background-color: rgba(51, 50, 49, 0.75);
+}
+
+
+
+.fab-link {
+	font-size: 2rem;
+	color: white;
+}
+
+
+#project img {
+	padding-bottom: 5rem;
+}
+
+.carousel-item a:hover {
+	background-color: red;
+}

@@ -1,0 +1,74 @@
+/*#fix-nav {
+	position:fixed;
+}*/
+
+
+
+html {
+	background-image: url(https://wallpaperaccess.com/full/1740357.jpg) !important;
+	background-size: cover;
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+#fix-nav {
+	position: fixed;
+	float: right;
+	margin-top: 90px;
+}
+
+
+
+
+
+.body {
+	font-family: 'Montserrat', sans-serif !important;
+		margin-top: 3rem;
+		padding-top: 2rem;
+	background-color: rgba(51, 50, 49, 0.75);
+}
+
+
+
+
+nav {
+	font-size: 1.2rem;
+}
+
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+a:hover {
+	border-bottom: 2px solid red;
+}
+
+a {
+	margin-right: 5rem;
+}
+
+
+.foot {
+background-color: rgba(51, 50, 49, 0.75);
+color: white;
+
+}
+
+
+
+.fab-link {
+	font-size: 2rem;
+	color: white;
+}
+
+
+/*#expertise img {
+	height: 250px;
+}*/
